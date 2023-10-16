@@ -1,12 +1,14 @@
 {
-    "name": "MrWasimAbbasi/adder",
+    "name": "wasim/adder",
     "description": "A simple PHP package for adding two numbers.",
     "author": "MrWasimAbbasi",
     "type": "library",
-    "require": {},
     "autoload": {
         "psr-4": {
             "Adder\\": "src/"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
     }
 }
