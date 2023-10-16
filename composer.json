@@ -3,6 +3,7 @@
     "description": "A simple PHP package for adding two numbers.",
     "author": "MrWasimAbbasi",
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Adder\\": "src/"
