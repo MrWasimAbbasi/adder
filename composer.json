@@ -1,6 +1,6 @@
 {
     "name": "wasim/adder",
-    "description": "A simple PHP package for adding two numbers.",
+    "description": "A simple PHP package for adding two numbers.helper",
     "author": "MrWasimAbbasi",
     "type": "library",
     "minimum-stability": "dev",
